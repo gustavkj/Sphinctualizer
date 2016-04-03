@@ -5,7 +5,7 @@ Sphinctualizer is a circular audio visualizer for [Rainmeter](https://www.rainme
 
 ## Installation
 
-1. Download the rmskin-package
+1. [Download the rmskin-package](Packaged/Sphinctualizer_1.0.rmskin?raw=true)
 2. Open it in [Rainmeter](https://www.rainmeter.net/)
 3. Choose variant: Large (max 1200 px), Medium (max 600 px) or Small (max 300 px)
 
