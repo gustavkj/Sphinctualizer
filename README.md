@@ -13,7 +13,7 @@ Sphinctualizer is a circular audio visualizer for [Rainmeter](https://www.rainme
 
 The animation below shows how the Sphinctualizer looks while a song is playing.
 
-![Sphinctualizer Demo](docs/sphinctualizer-demo.png)
+![Sphinctualizer Demo](docs/sphinctualizer-demo.gif)
 
 ## Learn More
 
