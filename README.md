@@ -22,7 +22,7 @@ The animation below shows how the Sphinctualizer looks while a song is playing.
 
 ## Contributor
 
-* Gustav Blomér ([@garnesson](https://github.com/garnesson))
+* Gustav Blomér ([@gustavkj](https://github.com/gustavkj))
 
 ## Credits
 
